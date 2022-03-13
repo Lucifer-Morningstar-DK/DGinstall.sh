@@ -1,1 +1,0 @@
-# DGinstall.sh
